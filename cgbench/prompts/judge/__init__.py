@@ -1,0 +1,3 @@
+from .general import GENERAL_JUDGE_SYSTEM_PROMPT
+from .vci_ever import JUDGE_PROMPT_MAP_VCI_EVER
+from .vci_escore import JUDGE_PROMPT_MAP_VCI_ESCORE

@@ -1,0 +1,60 @@
+# macOS system files
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints 
+
+# Specific:
+data/*
+tests/*
+clingen_gci/outputs/*
+clingen_gci/scripts/*
+clingen_vci/evidence_scoring/outputs/*
+clingen_vci/evidence_scoring/scripts/*
+clingen_vci/evidence_sufficiency/outputs/*
+clingen_vci/evidence_sufficiency/scripts/*
+
