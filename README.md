@@ -33,3 +33,7 @@ All scripts for each task are found in the following directories::
 - GCI Evidence Extraction: `clingen_gci/`
 
 Stay tuned for each scripts to reproduce each experiment in the paper.
+
+## 🗂️ Dataset availability
+
+Our dataset can be found and downloaded at https://huggingface.co/datasets/owencqueen/cgbench_data.
